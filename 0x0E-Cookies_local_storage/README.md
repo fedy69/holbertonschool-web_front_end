@@ -1,3 +1,0 @@
-# Cookies & local storage
-
-
